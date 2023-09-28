@@ -16,4 +16,4 @@ This is a concept which can help to explain not only why teams are successful, b
 
 We are going to derive the Pythagorean expectation for the 2022 NFL season.
 
-**Data was purchased from [bigdataball.com](url)
+**Data was purchased from [https://www.bigdataball.com](url)
